@@ -22,14 +22,12 @@
       <groupId>org.mule.tools.maven</groupId>
       <artifactId>mule-maven-plugin</artifactId>
       <version>2.1.1</version>
-      		
-     <deploymentType>cloudhub</deploymentType>
+      <deploymentType>cloudhub</deploymentType>
             <muleVersion>3.9.0</muleVersion>
             <username>rishi90</username>
             <password>Rishishan7988#</password>
              <applicationName>myapplication-maven-1.0</applicationName>
-             
-            <environment>SANDBOX</environment>
+             <environment>SANDBOX</environment>
         </configuration>
         <executions>
             <execution>
