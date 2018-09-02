@@ -6,7 +6,7 @@
 	<artifactId>test-jenkin</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule</packaging>
-	<name>Mule test Application</name>
+	<name>Mule test-jenkin Application</name>
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -27,7 +27,7 @@
             <muleVersion>3.9.0</muleVersion>
             <username>rishi90</username>
             <password>Rishishan7988#</password>
-             <applicationName>myapplication-maven-1.0</applicationName>
+	    <workerType>micro</workerType>
              <environment>SANDBOX</environment>
         </configuration>
         <executions>
