@@ -64,7 +64,7 @@
         <armDeployment>
             <username>rishi90</username>
             <password>Rishishan7988#</password>
-		<muleHome>${mule.home}</muleHome>
+		<muleHome>"C:\Program Files\Jenkins\workspace\test\target"</muleHome>
             <targetType>server</targetType>
             <environment>Design</environment>
             <target>muleOnprem</target>
