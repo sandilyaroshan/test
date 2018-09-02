@@ -54,6 +54,21 @@
 					</execution>
 				</executions>
 			</plugin>
+			<plugin>
+    <groupId>org.mule.tools.maven</groupId>
+    <artifactId>mule-maven-plugin</artifactId>
+    <version>4.1.1</version>
+    <extensions>true</extensions>
+    <configuration>
+        <armDeployment>
+            <username>rishi90</username>
+            <password>Rishishan7988#</password>
+            <targetType>server</targetType>
+            <environment>Design</environment>
+            <target>muleOnprem</target>
+        </armDeployment>
+    </configuration>
+</plugin>
 		</plugins>
 	</build>
 
