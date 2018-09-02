@@ -27,7 +27,7 @@
             <muleVersion>3.9.0</muleVersion>
             <username>rishi90</username>
             <password>Rishishan7988#</password>
-	    <workerType>micro</workerType>
+	    <workerType>Micro</workerType>
              <environment>SANDBOX</environment>
         </configuration>
         <executions>
