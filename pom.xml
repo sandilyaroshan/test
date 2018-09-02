@@ -64,6 +64,7 @@
         <armDeployment>
             <username>rishi90</username>
             <password>Rishishan7988#</password>
+		<muleHome>${mule.home}</muleHome>
             <targetType>server</targetType>
             <environment>Design</environment>
             <target>muleOnprem</target>
